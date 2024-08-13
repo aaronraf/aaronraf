@@ -10,9 +10,9 @@ I'm an indonesian Student currently pursuing a CS Bachelor's degree at TU Munich
 
 ## Languages
 - Java
-- C/C++
 - JavaScript
 - Python
+- C/C++
   
 
 ## Top Languages
