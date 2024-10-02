@@ -13,6 +13,7 @@ I'm an indonesian Student currently pursuing a CS Bachelor's degree at TU Munich
 - JavaScript
 - Python
 - C/C++
+- OCaml
   
 
 ## Top Languages
