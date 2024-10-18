@@ -18,6 +18,7 @@ I'm an indonesian Student currently pursuing a CS Bachelor's degree at TU Munich
 
 ## Top Languages
 - Java ☕️
+- JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="20" height="20"/> 
 
 
 ## Connect with Me
