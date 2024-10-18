@@ -21,7 +21,7 @@ I'm an indonesian Student currently pursuing a CS Bachelor's degree at TU Munich
 
 
 ## Connect with Me
-- Instagram: https://www.instagram.com/aaronrafaell/
+<!-- - Instagram: https://www.instagram.com/aaronrafaell/ -->
 - LinkedIn: https://www.linkedin.com/in/aaron-thamin/
 
 
