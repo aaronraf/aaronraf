@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm an indonesian Student currently pursuing a CS Bachelor's degree at TU Munich. My interests lie in Web Developments, and I enjoy working on projects that involve them.<br><br>🌱 I’m currently learning Software Engineering<br>📫 How to reach me: aaronrafaelthamin@gmail.com / aaron.thamin@tum.de
+I'm an indonesian student currently pursuing a CS Bachelor's degree at TU Munich. My interests lie in Web Developments, and I enjoy working on projects that involve them.<br><br>🌱 I’m currently learning Software Engineering<br>📫 How to reach me: aaronrafaelthamin@gmail.com / aaron.thamin@tum.de
 
 
 ## 🌐 Socials
