@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm an indonesian student currently pursuing a CS Bachelor's degree at TU Munich.<br>
+I'm a CS student currently pursuing a Bachelor's degree at TU Munich.<br>
 My interests lie in Web Developments, and I enjoy working on projects that involve them.<br><br>
 
 🌱 I’m currently learning: Spring Boot and REST API 🍃<br>
